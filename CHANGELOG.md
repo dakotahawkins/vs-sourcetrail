@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.7
+
+**2017-10-03**
+
+* Features
+	* New option to specify additional clang options for compilation database generation.
+* Fixes
+	* Fixes missing project properties in clang compilation databases ([issue #12](https://github.com/CoatiSoftware/vs-sourcetrail/issues/12)).
+
 
 ## 1.0.6
 
